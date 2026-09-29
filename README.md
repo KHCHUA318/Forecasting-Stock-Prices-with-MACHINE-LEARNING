@@ -5,7 +5,6 @@ Libraries required to download:
 - Machine Learning: sklearn, keras
 - Data Source: yfinance
 
-
 Quick Summary:
 1. dataset.ipynb will download and preprocess the selected dataset from yfinance. After preprocessed, the dataset will be divided into 80% training, 10% validation, and 10% testing.
 2. Linear.ipynb will train on the training dataset provided and test on the validation set.
